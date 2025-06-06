@@ -12,7 +12,7 @@
 💡 My mission is to build, break, and secure systems — while always learning and helping others grow in tech.
 
 📫 Reach me at: isaiahhmiri@gmail.com  
-🔗 Connect: [LinkedIn]((https://www.linkedin.com/in/isaiah-johnson-1788511b3/))
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/isaiah-johnson-1788511b3/)
 
 <!---
 IsaiahIhmirJohnson/IsaiahIhmirJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
