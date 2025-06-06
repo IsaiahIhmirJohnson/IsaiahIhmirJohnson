@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @IsaiahIhmirJohnson
-- 👀 I’m interested in AWS Cloud Computing 
-- 🌱 I’m currently learning AWS Certified Cloud Practitioner
-- 💞️ I’m looking to collaborate on almost anything, trying my best to learn as much useful information as possible.
-- 📫 How to reach me @ isaiahihmir@gmail.com
+# 👋 Hey, I'm Isaiah Johnson
+
+🎯 I’m passionate about cybersecurity, cloud computing, and building practical tools that solve real problems.
+
+🛠️ Currently working on:
+- 🔐 A full SOC lab using Proxmox, Suricata, Zeek, and Wazuh
+- 🤖 A smart alert-assistant that auto-researches unknown alerts
+- 🏠 A home server running media services and monitoring tools
+
+🎓 I’ve earned my AAS in Cybersecurity and continuing my B.S. in IT Business Management with a focus on incident and risk management.
+
+💡 My mission is to build, break, and secure systems — while always learning and helping others grow in tech.
+
+📫 Reach me at: isaiahhmiri@gmail.com  
+🔗 Connect: [LinkedIn]((https://www.linkedin.com/in/isaiah-johnson-1788511b3/))
 
 <!---
 IsaiahIhmirJohnson/IsaiahIhmirJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
